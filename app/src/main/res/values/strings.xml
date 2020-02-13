@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TripsMap</string>
+    <string name="mapbox_key">pk.eyJ1IjoicnVzbGFuYW5kcm9pZCIsImEiOiJjank4cjBpc2QwNHYzM2NvYjBzMGJ6c3VyIn0.VfNGwPDc-Udq8V6FNvIP5g</string>
+
+</resources>
